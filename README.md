@@ -1,9 +1,7 @@
-### Hi there 👋
-
-#I am Raju Deb Nath from Chittagong, Bangladesh. Now, I am working as a Front End Developer besides pursuing my bachelor's degree in Computer Science & Engineering(Last Years).
+![](https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.6435-9/p720x720/132741287_1536995136486417_8918464306282666383_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=4ebmM7BU3RIAX-lr-og&_nc_ht=scontent.fcgp3-1.fna&oh=89e49dc06d3c1c3c02402e541bf94c6b&oe=6182DFFA)
 
 <h1 align="center">Hi 👋, I'm Raju Deb Nath</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">I am Raju Deb Nath from Chittagong, Bangladesh. Now, I am working as a Front End Developer besides pursuing my bachelor's degree in Computer Science & Engineering(Last Years).</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
