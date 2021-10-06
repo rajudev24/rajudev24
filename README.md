@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Raju Deb Nath from Chittagong, Bangladesh. Now, I am working as a Front End Developer besides pursuing my bachelor's degree in Computer Science & Engineering(Last Years).
+
+
 <!--
 **rajudev24/rajudev24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
