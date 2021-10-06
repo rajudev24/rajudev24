@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Raju Deb Nath from Chittagong, Bangladesh. Now, I am working as a Front End Developer besides pursuing my bachelor's degree in Computer Science & Engineering(Last Years).
+#I am Raju Deb Nath from Chittagong, Bangladesh. Now, I am working as a Front End Developer besides pursuing my bachelor's degree in Computer Science & Engineering(Last Years).
 
 
 <!--
