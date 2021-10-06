@@ -1,4 +1,4 @@
-![](https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.6435-9/p720x720/132741287_1536995136486417_8918464306282666383_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=4ebmM7BU3RIAX-lr-og&_nc_ht=scontent.fcgp3-1.fna&oh=89e49dc06d3c1c3c02402e541bf94c6b&oe=6182DFFA)
+![](https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.6435-9/s960x960/243540407_1735868176599111_9147833381102584993_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=e7EbJn5lIdQAX8uKQ-1&_nc_ht=scontent.fcgp3-1.fna&oh=bc74fc4fbbbf1e834fdf14e2a0587ecc&oe=61846548)
 
 <h1 align="center">Hi 👋, I'm Raju Deb Nath</h1>
 <h3 align="center">I am Raju Deb Nath from Chittagong, Bangladesh. Now, I am working as a Front End Developer besides pursuing my bachelor's degree in Computer Science & Engineering(Last Years).</h3>
