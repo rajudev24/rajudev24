@@ -1,7 +1,7 @@
 ![](https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.6435-9/s960x960/243540407_1735868176599111_9147833381102584993_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=e7EbJn5lIdQAX8uKQ-1&_nc_ht=scontent.fcgp3-1.fna&oh=bc74fc4fbbbf1e834fdf14e2a0587ecc&oe=61846548)
 
 <h1 align="center">Hi 👋, I'm Raju Deb Nath</h1>
-<h3 align="center">I am Raju Deb Nath from Chittagong, Bangladesh. Now, I am working as a Front End Developer besides pursuing my bachelor's degree in Computer Science & Engineering(Final Year).</h3>
+<h3 align="center">I am Raju Deb Nath from Chittagong, Bangladesh. Now, I am working as a Full Stack Developer besides pursuing my bachelor's degree in Computer Science & Engineering(Final Year).</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
