@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Raju Deb Nath</h1>
 <h3 align="center">🚀 Full Stack Software Engineer | Building Scalable, High-Performance Web Applications
-I’m a Full Stack Software Engineer with 4+ years of experience designing and building scalable web applications, modern APIs, and distributed systems. I specialize in the JavaScript / TypeScript ecosystem, creating high performance products using React, Next.js, Node.js, and Nest.JS. My focus is on designing clean architectures, efficient APIs, and user-centric products that solve real business problems.
+I’m a Full Stack Software Engineer with 4.5+ years of experience designing and building scalable web applications, modern APIs, and distributed systems. I specialize in the JavaScript / TypeScript ecosystem, creating high performance products using React, Next.js, Node.js, and Nest.JS. My focus is on designing clean architectures, efficient APIs, and user-centric products that solve real business problems.
 
 Currently, I work as a Software Engineer at Soft BD Limited, where I collaborate with cross functional teams to develop production grade applications and scalable backend services. My work helps deliver user-centric platforms that improve performance, SEO, and product reliability.
 
